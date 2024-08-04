@@ -1,4 +1,4 @@
-## Hi there 👋
+## [Hi, I'm Brendan](https://fullstackbrendan.dev) 👋
 
 <!--
 **fullstackbrendan/fullstackbrendan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a formerly incarcerated software developer based in Stockton, California. I am currently making a transtion from driving semi-trucks all day to tech.
+
+I build, maintain and design web applications. I've been coding professionally since 2022 with a focus on frontend technologies. I am also a mentee in [Underdog Devs](https://www.underdogdevs.org).
